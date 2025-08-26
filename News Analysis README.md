@@ -1,7 +1,7 @@
 Project Overview
 
 
-This project applies A/B testing methodology to real-world news data in order to evaluate which factors — such as time of publication or headline style — influence engagement. Data was collected via a public news API, cleaned, and then analyzed using Python libraries.
+This project applies A/B testing methodology to real-world news data in order to evaluate which factors such as time of publication or headline style — influence engagement. Data was collected via a public news API, cleaned, and then analyzed using Python libraries.
 
 The project demonstrates practical skills in:
 
@@ -14,6 +14,8 @@ Exploratory data analysis (EDA) and visualization
 Statistical testing with scipy
 
 Deriving actionable business insights from real-world data
+
+
 
 
 Objectives
