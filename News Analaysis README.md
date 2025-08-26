@@ -17,9 +17,10 @@ Statistical testing with scipy
 Deriving actionable business insights from real-world data
 
 
-🎯 Objectives
+Objectives
 
 Data Acquisition – Pull article metadata (headline, source, timestamp, category) from a public news API.
+
 
 A/B Test Simulation – Randomly assign articles into groups:
 
@@ -29,11 +30,15 @@ Group B: Evening (6 PM–12 AM) publications
 
 Alternative variable: Headline length or sentiment score.
 
+
 Data Cleaning & Exploration – Handle missing values, convert timestamps, and filter outliers.
+
 
 Analysis & Visualization – Explore article distributions by source, category, and length.
 
+
 Hypothesis Testing – Conduct a two-sample t-test to compare mean engagement metrics.
+
 
 Key Insights – Recommend which factor (time or headline characteristic) correlates with higher engagement.
 
